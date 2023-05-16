@@ -1,5 +1,3 @@
-# MERN-Fullstack-Website-Code
-
 # MERN Full-Stack Website
 
 This project is a personal Full-Stack website built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The website aims to provide a comprehensive solution by combining the front-end and back-end technologies.
